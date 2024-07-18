@@ -1,0 +1,8 @@
+openpyxl
+numpy
+pandas
+seaborn
+matplotlib
+geopandas
+ipywidgets
+scikit-learn
